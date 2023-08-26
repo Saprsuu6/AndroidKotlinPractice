@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ResultFromActivity</string>
+    <string name="buttonName1">Let name</string>
+    <string name="buttonName2">Back</string>
+    <string name="mainTextInfo">What is your name?</string>
+    <string name="greetings">Hello %1$s!</string>
+    <string name="greetingsError">You have to let your name</string>
+</resources>
