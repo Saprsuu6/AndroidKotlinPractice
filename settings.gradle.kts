@@ -16,4 +16,4 @@ dependencyResolutionManagement {
 rootProject.name = "AndroidKotlinPractice"
 include(":Activity")
 include(":ResultFromActivity")
-include(":PlantsHandBook")
+include(":StatusCatsBook")

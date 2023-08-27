@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PlantsHandBook</string>
+    <string name="buttonShowAllStatus">Show all statuses</string>
+    <string name="statusCodeWrite">Write Status code here</string>
+    <string name="url">https://http.cat/%1$s</string>
+    <string name="imgDescription">statusCodeImage</string>
+</resources>

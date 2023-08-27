@@ -12,8 +12,8 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Activity" />
-            <option value="$PROJECT_DIR$/PlantsHandBook" />
             <option value="$PROJECT_DIR$/ResultFromActivity" />
+            <option value="$PROJECT_DIR$/StatusCatsBook" />
           </set>
         </option>
       </GradleProjectSettings>

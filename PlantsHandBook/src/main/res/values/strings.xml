@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">PlantsHandBook</string>
-    <string name="buttonAddPlant">Add plant</string>
-    <string name="url">https://http.cat/%1$s</string>
-</resources>
