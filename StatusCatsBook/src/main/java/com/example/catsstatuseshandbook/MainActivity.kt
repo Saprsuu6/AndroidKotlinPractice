@@ -1,12 +1,12 @@
-package com.example.plantshandbook
+package com.example.catsstatuseshandbook
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.widget.doOnTextChanged
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.example.plantshandbook.databinding.ActivityMainBinding
-import com.example.plantshandbook.models.StatusCat
-import com.example.plantshandbook.models.StatusCodes
+import com.example.catsstatuseshandbook.databinding.ActivityMainBinding
+import com.example.catsstatuseshandbook.models.StatusCat
+import com.example.catsstatuseshandbook.models.StatusCodes
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding

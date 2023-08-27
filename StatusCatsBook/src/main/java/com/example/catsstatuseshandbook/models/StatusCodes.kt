@@ -1,4 +1,4 @@
-package com.example.plantshandbook.models
+package com.example.catsstatuseshandbook.models
 
 class StatusCodes {
     companion object {

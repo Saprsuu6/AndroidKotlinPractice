@@ -1,4 +1,4 @@
-package com.example.plantshandbook
+package com.example.catsstatuseshandbook
 
 import android.annotation.SuppressLint
 import android.content.Context
@@ -7,9 +7,9 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
-import com.example.plantshandbook.databinding.StatusCodeViewBinding
-import com.example.plantshandbook.models.StatusCat
-import com.example.plantshandbook.models.StatusCodes
+import com.example.catsstatuseshandbook.databinding.StatusCodeViewBinding
+import com.example.catsstatuseshandbook.models.StatusCat
+import com.example.catsstatuseshandbook.models.StatusCodes
 
 class StatusCodeAdapter : RecyclerView.Adapter<StatusCodeAdapter.Item>() {
     private var statusCodeList = ArrayList<StatusCat>()
