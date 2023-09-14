@@ -17,3 +17,7 @@ rootProject.name = "AndroidKotlinPractice"
 include(":Activity")
 include(":ResultFromActivity")
 include(":StatusCatsBook")
+include(":Navigation")
+include(":RoomDataBase")
+include(":NavigationLibrary")
+include(":SQLite")

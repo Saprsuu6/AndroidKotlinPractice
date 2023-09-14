@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BottomNavigationView</string>
+    <string name="bottomHome">Home</string>
+    <string name="bottomSearch">Search</string>
+    <string name="bottomAdd">Add</string>
+    <string name="bottomNews">News</string>
+    <string name="bottomPage">Page</string>
+</resources>

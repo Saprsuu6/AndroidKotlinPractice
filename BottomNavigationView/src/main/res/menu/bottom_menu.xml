@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home"
+        android:orderInCategory="1"
+        android:title="@string/bottomHome"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/ic_search"
+        android:orderInCategory="2"
+        android:title="@string/bottomSearch"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/add"
+        android:icon="@drawable/ic_add"
+        android:orderInCategory="3"
+        android:title="@string/bottomAdd"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/news"
+        android:icon="@drawable/ic_news"
+        android:orderInCategory="4"
+        android:title="@string/bottomNews"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/page"
+        android:icon="@drawable/ic_page"
+        android:orderInCategory="5"
+        android:title="@string/bottomPage"
+        app:showAsAction="ifRoom" />
+</menu>

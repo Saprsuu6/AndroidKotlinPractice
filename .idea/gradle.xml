@@ -12,7 +12,11 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Activity" />
+            <option value="$PROJECT_DIR$/Navigation" />
+            <option value="$PROJECT_DIR$/NavigationLibrary" />
             <option value="$PROJECT_DIR$/ResultFromActivity" />
+            <option value="$PROJECT_DIR$/RoomDataBase" />
+            <option value="$PROJECT_DIR$/SQLite" />
             <option value="$PROJECT_DIR$/StatusCatsBook" />
           </set>
         </option>

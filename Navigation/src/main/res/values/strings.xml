@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ToolBar</string>
+    <string name="menuItemSync">Sync</string>
+    <string name="menuItemSave">Save</string>
+    <string name="menuItemSearch">Search</string>
+    <string name="menuItemDelete">Delete</string>
+    <string name="bottomHome">Home</string>
+    <string name="bottomSearch">Search</string>
+    <string name="bottomAdd">Add</string>
+    <string name="bottomNews">News</string>
+    <string name="bottomPage">Page</string>
+    <string name="category_1">Page navigation</string>
+    <string name="category_2">Options</string>
+</resources>
