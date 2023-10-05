@@ -25,13 +25,13 @@
   </li>
   <li>
     <h2>AdMob</h2>
-    <a href="https://gyazo.com/6501e293a237ba1090eb0e5020c8024e">
+    <a href="https://gyazo.com/c554fbf9c10c71f7caf70a9df26d6a8b">
       Banner ad
-      <img src="https://i.gyazo.com/6501e293a237ba1090eb0e5020c8024e.png" alt="Image from Gyazo" width="150"/>
+      <img src="https://i.gyazo.com/c554fbf9c10c71f7caf70a9df26d6a8b.gif" alt="Image from Gyazo" width="150"/>
     </a>
-    <a href="https://gyazo.com/f410d66fd69812d6ba8975d5873ae141">
+    <a href="https://gyazo.com/7290fdb222922b39a49ba4a8446b14f7">
       Interstitial ad
-      <img src="https://i.gyazo.com/f410d66fd69812d6ba8975d5873ae141.png" alt="Image from Gyazo" width="150"/>
+      <img src="https://i.gyazo.com/7290fdb222922b39a49ba4a8446b14f7.gif" alt="Image from Gyazo" width="150"/>
     </a>
   </li>
 </ul>
