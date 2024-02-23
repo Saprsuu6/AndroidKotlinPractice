@@ -50,10 +50,10 @@ class MainActivity : AppCompatActivity() {
                     else -> false
                 }
             }
-//            navigationView.setNavigationItemSelectedListener {
-//                drawer.closeDrawer(GravityCompat.START)
-//                true
-//            }
+            navigationView.setNavigationItemSelectedListener {
+                drawer.closeDrawer(GravityCompat.START)
+                true
+            }
         }
     }
 
